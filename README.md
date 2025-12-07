@@ -24,8 +24,3 @@ This dashboard addresses the "10-Second Rule," helping retail marketers immediat
 - **Unified Campaigns:** Multi-channel management (WhatsApp, SMS, Email).
 - **Loyalty Integration:** Tier management and rewards.
 - **Audience Segmentation:** Visual segment cards.
-
-## Deliverables
-- [Final Submission Document](./Relevent%20Files/final_submission.md)
-- [Video Script](./Relevent%20Files/video_script.md)
-
