@@ -13,7 +13,6 @@ To run it locally:
 ## Project Structure
 - **/app**: Contains the Next.js App Router pages (`dashboard`, `campaigns`, `audience`, `loyalty`, `analytics`).
 - **/components**: Reusable UI components (KPI cards, charts, tables, dialogs).
-- **/Relevent Files**: Contains the **Final Submission Document** and **Video Script**.
 - **artifacts**: Contains PM thinking, wireframes, and design specs.
 
 ## Assignment Overview
